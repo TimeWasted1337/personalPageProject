@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Philosopher&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Philosopher', sans-serif;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.main-header{
+    background-image: url("ImagesJS/PlanetsUmbral.jpg"); 
+    background-size: cover;
+    padding-bottom: 0px;
+    margin: 0;
+
+}
+
+.main-nav ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: medium;
+}
+
+.self-tw{
+    font-family: 'Metal Mania', cursive;
+    font-size: 6em
+    
+}
+
+.sub-headers{
+    text-align: center;
+    color:rgb(150, 150, 146)
+}
+
+.content{
+    padding: 0;
+    margin: 15px;
+
+}
+
+.img{
+    float: left;
+
+    margin: 10px;
+    
+}
+
+.img2{
+    float: right;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    
+}
+.foot{
+    background-color:slategray
+    color: white;
+    padding: .25em 0;
+}
+
+.foot-link{
+    margin: 25px;
+    align-items: center;
+    padding-left: 4em;
+}
+
+.foot-link:hover{
+    background-color: rgba(0, 0, 0, .4)
+}
+
+.nav-footer{
+    display: flex;
+    flex-grow: 1;
+    text-align: end;
+    align-items: center;
+    list-style-type: none; 
+}
