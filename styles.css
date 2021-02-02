@@ -11,7 +11,7 @@ html, body{
 }
 
 .main-header{
-    background-image: url("ImagesJS/PlanetsUmbral.jpg"); 
+    background-image: url("images/PlanetsUmbral.jpg"); 
     background-size: cover;
     padding-bottom: 0px;
     margin: 0;
