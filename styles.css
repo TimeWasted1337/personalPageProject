@@ -46,16 +46,6 @@ html, body{
     margin: 10px;
     
 }
-.foot{
-    align-items: center;
-}
-
-.foot-link{
-    margin: 25px 25px;
-    align-items: center;
-    padding: 4em 4em;
-
-}
 
 .foot-link:hover{
     background-color: rgba(0, 0, 0, .4)
@@ -67,6 +57,15 @@ html, body{
     text-align: end;
     align-items: center;
     list-style-type: none;
-    width: 30px;
-    height: 30px;
+
+}
+
+.git{
+    width: 50px;
+    height: 50px;
+}
+
+.linkedin{
+    width: 50px;
+    height: 50px;
 }
