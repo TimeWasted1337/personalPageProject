@@ -44,22 +44,25 @@ html, body{
 }
 
 .img2{
-    float: right;
+    float: left;
     height: 200px;
     width: 200px;
     margin: 10px;
     
 }
 .foot{
-    background-color:slategray
-    color: white;
-    padding: .25em 0;
+    align-items: center;
+    background-color:rgb(32, 33, 34)
+    color; whitesmoke
+    padding: .25em, .25em;
 }
 
 .foot-link{
     margin: 25px;
     align-items: center;
     padding-left: 4em;
+    width: 50px;
+    height: 50px;
 }
 
 .foot-link:hover{
