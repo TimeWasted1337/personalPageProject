@@ -36,7 +36,7 @@ nav.main-nav a {
 
 .self-tw{
     background-color: black;
-    color: slategray;
+    color: rgb(226, 226, 226);
     font-family: 'Metal Mania', cursive;
     font-size: 3em
     
@@ -65,8 +65,7 @@ nav.main-nav a {
 }
 
 .nav-footer {
-    display: flex;
-    flex-grow: 1;
+    display: grid;
     text-align: end;
     align-items: center;
     list-style-type: none;
@@ -80,4 +79,5 @@ nav.main-nav a {
 
 .foot-link img {
    max-width: 100%
+   
 }
