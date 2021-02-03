@@ -20,6 +20,8 @@ html, body{
 }
 
 .self-tw{
+    background-color: black;
+    color: slategray;
     font-family: 'Metal Mania', cursive;
     font-size: 6em
     
