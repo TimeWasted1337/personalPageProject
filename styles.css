@@ -65,7 +65,8 @@ nav.main-nav a {
 }
 
 .nav-footer {
-    display: grid;
+    display: flex;
+    flex-grow: 1;
     text-align: end;
     align-items: center;
     list-style-type: none;
