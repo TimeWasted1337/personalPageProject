@@ -13,6 +13,8 @@ html, body{
 
 
 .main-nav ul{
+   background-color: black;
+   color: slategray;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -23,7 +25,7 @@ html, body{
     background-color: black;
     color: slategray;
     font-family: 'Metal Mania', cursive;
-    font-size: 6em
+    font-size: 3em
     
 }
 
@@ -46,16 +48,14 @@ html, body{
 }
 .foot{
     align-items: center;
-    background-color:rgb(25, 25, 26)
-    color: snow;
 }
 
 .foot-link{
-    margin: 25px;
+    margin: 25px, 25px;
     align-items: center;
-    padding-left: 4em;
-    width: 50px;
-    height: 50px;
+    padding: 4em, 4em;
+    width: 30px;
+    height: 30px;
 }
 
 .foot-link:hover{
