@@ -60,8 +60,8 @@ nav.main-nav a {
 }
 
 .img{
+    align-items: left;
     border-radius: 50%;
-    float: left;
     margin: 10px;
     
 }
