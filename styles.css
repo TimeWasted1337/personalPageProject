@@ -51,21 +51,20 @@ html, body{
     background-color: rgba(0, 0, 0, .4)
 }
 
-.nav-footer{
+.nav-footer {
     display: flex;
     flex-grow: 1;
     text-align: end;
     align-items: center;
     list-style-type: none;
-
 }
 
-.git{
-    width: 50px;
-    height: 50px;
+.foot-link {
+    margin: 0 25px;
+    width: 25px;
+    height: 25px;
 }
 
-.linkedin{
-    width: 50px;
-    height: 50px;
+.foot-link img {
+   max-width: 100%
 }
