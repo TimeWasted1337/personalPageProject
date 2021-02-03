@@ -51,11 +51,10 @@ html, body{
 }
 
 .foot-link{
-    margin: 25px, 25px;
+    margin: 25px 25px;
     align-items: center;
-    padding: 4em, 4em;
-    width: 30px;
-    height: 30px;
+    padding: 4em 4em;
+
 }
 
 .foot-link:hover{
@@ -67,5 +66,7 @@ html, body{
     flex-grow: 1;
     text-align: end;
     align-items: center;
-    list-style-type: none; 
+    list-style-type: none;
+    width: 30px;
+    height: 30px;
 }
