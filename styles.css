@@ -10,15 +10,28 @@ html, body{
     padding: 0;
 }
 
+header.main-header {
+    background: black;
+    padding-top: 15px;
+}
 
+nav.main-nav {
+    text-align: right;
+    display: block;
+    color: white;
+}
 
-.main-nav ul{
-   background-color: black;
-   color: slategray;
+.main-nav ul {
+    color: slategray;
+    font-size: medium;
     margin: 0;
     padding: 0;
-    text-align: center;
-    font-size: medium;
+}
+
+nav.main-nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
 }
 
 .self-tw{
