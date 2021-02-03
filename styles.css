@@ -46,9 +46,8 @@ html, body{
 }
 .foot{
     align-items: center;
-    background-color:rgb(32, 33, 34)
-    color; whitesmoke
-    padding: .25em, .25em;
+    background-color:rgb(25, 25, 26)
+    color: snow;
 }
 
 .foot-link{
